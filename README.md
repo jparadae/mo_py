@@ -1,6 +1,6 @@
-# puterio
+# Proyecto Mo-Py!
 
-A new Flutter project.
+Este Proyecto es una propuesta al trabajo de emprendedores.
 
 ## Getting Started
 
@@ -14,4 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Proyecto Puterio, para mayores de 18 años
+# Proyecto Mo-Py, apto para los emprendedores que desean acercarse a la tecnología
+
+Idea Chascón_Weed! by Zenith baby :D.
+

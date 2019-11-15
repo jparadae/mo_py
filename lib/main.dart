@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('¿Cuánto Sale?',),
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.redAccent,
         ),
         body: HomePageTemp()
       ),

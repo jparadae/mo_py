@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:puterio/src/pages/home_temp.dart';
+import 'package:puterio/src/pages/home_page.dart';
+//import 'package:puterio/src/pages/home_temp.dart';
  
 void main() => runApp(MyApp());
  
@@ -7,14 +8,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Cuanto Sale!',
+      title: 'Opciones Productos',
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('¿Cuánto Sale?',),
-          backgroundColor: Colors.redAccent,
+          title: Text('Mi @pyme',),
+          backgroundColor: Colors.lightBlue,
         ),
-        body: HomePageTemp()
+        body: HomePage()
       ),
     );
   }

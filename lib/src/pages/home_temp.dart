@@ -3,14 +3,14 @@ import 'dart:collection';
 import 'package:flutter/material.dart';
 
 class HomePageTemp extends StatelessWidget{
-  final opciones =['p1','p2','p3'];
+  final opciones =['Cargar Catalogo','Pedidos','Publicaciones','Preguntas', 'Mis Ventas', 'Perdidos'];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-       title: Text('Disponibilidad'),
-       backgroundColor: Colors.redAccent,
+       title: Text('Opciones @pyme'),
+       backgroundColor: Colors.blueGrey,
       ),
       body: 
       ListView(
